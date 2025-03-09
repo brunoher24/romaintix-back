@@ -1,0 +1,16 @@
+{
+  "name": "romaintix-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+   
+  },
+  "dependencies": {
+    "express": "latest",
+    "url": "latest",
+    "path": "latest",
+    "openai": "latest"
+  },
+  "devDependencies": {
+  }
+}
