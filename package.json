@@ -2,16 +2,15 @@
   "name": "romaintix-backend",
   "version": "0.1.0",
   "private": true,
-  "main" : "index.js",
-  "scripts": {
-    "start": "npm install, node index.js"  
-  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "latest",
-    "url": "latest",
+    "firebase-admin": "^13.2.0",
+    "openai": "latest",
     "path": "latest",
-    "openai": "latest"
-  },
-  "devDependencies": {
+    "url": "latest"
   }
 }
